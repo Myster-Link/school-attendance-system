@@ -1,0 +1,12 @@
+.vs
+Encryption/bin
+Encryption/obj
+Mappers/bin
+Mappers/obj
+Repository/bin
+Repository/obj
+schoolattendance-api/bin
+schoolattendance-api/obj
+schoolattendance-api/appsettings.json
+
+
